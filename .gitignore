@@ -1,0 +1,34 @@
+# SBT build artifacts
+target/
+project/target/
+project/project/
+lib_managed/
+src_managed/
+project/boot/
+.sbt
+.cache/
+.lib/
+
+# Scala IDE files
+.scala_dependencies
+.worksheet
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
+
+# Test reports
+test-reports/
+
+# Temporary files
+.tmp/
+temp/
+
+# Metals (Scala LSP)
+.metals/
+.bloop/
+project/.bloop/
+metals.sbt
