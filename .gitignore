@@ -12,6 +12,7 @@ project/boot/
 # Scala IDE files
 .scala_dependencies
 .worksheet
+.vscode/
 
 # OS files
 .DS_Store
